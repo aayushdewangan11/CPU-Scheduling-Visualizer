@@ -6,4 +6,4 @@
 
 
 
-
+![image](https://github.com/aayushdewangan11/CPU-Scheduling-Visualizer/assets/79148304/dee4b255-0018-4c6d-8401-37b19aa66dde)
